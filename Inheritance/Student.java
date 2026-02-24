@@ -1,3 +1,6 @@
+package Inheritance;
+
+
 class Parent {
     int age, id;
     String name;
