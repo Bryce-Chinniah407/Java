@@ -1,5 +1,5 @@
 public class Counter {
-    static int number = 10;
+    int number = 10;
 
     void increment() {
         number = number + 1;
